@@ -1,2 +1,5 @@
-# csd-380
-csd-380
+# CSD 380 DevOps
+## Contributors
+- Professor Osier
+- Marlene Rodriguez
+
